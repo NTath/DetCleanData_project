@@ -1,6 +1,6 @@
 
 ## Set working directory - (data files are in the working directory)
-setwd("C:\\Users\\Nikolaos\\Documents\\R\\R lessons\\GetCleanData\\UCI HAR Dataset")
+#setwd("C:\\Users\\Nikolaos\\Documents\\R\\R lessons\\GetCleanData\\UCI HAR Dataset")
 
 ## Read the data from different files in different tables
 sub_tr <- read.table("subject_train.txt")
